@@ -38,6 +38,6 @@
     <img src="https://img.shields.io/badge/Browse%20All-Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="Repositories">
   </a>
   <a href="https://t.me/yumaplayer">
-  <img src="https://img.shields.io/badge/Telegram-Yuma_Hub-229ED9?style=for-the-badge&logo=telegram&logoColor=white&cache=1" alt="Telegram Channel">
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=Yuma%20Hub&color=229ED9&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
   </a>
 </div>
